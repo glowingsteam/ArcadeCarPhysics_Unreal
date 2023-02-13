@@ -1,40 +1,8 @@
 ## About
 
-My attempts to make a fun vehicle physics and arcade control.
-The primary goal was to make a vehicle controller which is easy to set up and fun to play with.
-I'm pretty happy with the results. This approach can be used for games like GTA, Rocket League or Flatout.
+This is an attempt to port @SergeyMakeev's Arcarde Car Physics logic to Unreal.
 
-![alt tag](https://raw.githubusercontent.com/SergeyMakeev/ArcadeCarPhysics/master/ArcadeCarPhysics.gif)
-
-Warning: This is not a final product! This is only my thoughts on the topic.
-
-You can download precompiled demo from releases page:
-https://github.com/SergeyMakeev/ArcadeCarPhysics/releases/tag/1.0
-
-Demo video available:
-https://www.youtube.com/watch?v=HCuJi2pntOw
-
-Key things:
-
-* Speed Curve (instead of complicated engine settings)
-
-* Stable Suspension
-
-* Stablizier Bar Forces
-
-* Ackermann Steering
-
-* Downforce
-
-* Normalized Tire laterial friction
-
-* Handbrakes
-
-* In-flight vehicle stabilization
-
-
-This demo is made using Unity game engine.
-It should be easy to implement this algorithm on any other game/physics engine.
+The demo map and assets will most likely be different
 
 ## Useful reading (in random order):
 
